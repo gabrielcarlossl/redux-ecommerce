@@ -4,56 +4,56 @@ const products = [
     price: 150,
     name: "Suéter Branco",
     imageUrl:
-      "https://images.unsplash.com/flagged/photo-1559502867-c406bd78ff24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
+      "https://static.dafiti.com.br/p/Polo-Ralph-Lauren-Su%C3%A9ter-Polo-Ralph-Lauren-Tricot-Classics-Branco-1341-2747405-1-zoom.jpg",
   },
   {
     id: "6228fec7b7e6cb904bbe016f",
     name: "Regata Azul",
     price: 150,
     imageUrl:
-      "https://images.unsplash.com/photo-1469334031218-e382a71b716b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80s",
+      "https://static.netshoes.com.br/produtos/camiseta-regata-feminina/08/4J4-0071-008/4J4-0071-008_detalhe1.jpg?ts=1631417142",
   },
   {
     price: 200,
     id: "6228ff71b7e6cb904bbe0175",
     imageUrl:
-      "https://images.unsplash.com/photo-1584670747417-594a9412fba5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "https://static.dafiti.com.br/p/Malwee-Su%C3%A9ter-Malwee-Infantil-Vermelho-8988-5471782-1-zoom.jpg",
     name: "Suéter Vermelho Vibrante",
   },
   {
-    name: "Vestido Vermelho",
+    name: "Calça Social preta",
     price: 250,
     imageUrl:
-      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=746&q=80",
+      "https://cea.vtexassets.com/arquivos/ids/8920434/Calca-Social-Masculina-Preta-8351380-Preto_1.jpg?v=637674911038830000",
     id: "6228ff93b7e6cb904bbe0177",
   },
   {
     price: 300,
     id: "6228fe80b7e6cb904bbe0168",
-    name: "Jaqueta Xadrez",
+    name: "Jaqueta de Couro",
     imageUrl:
-      "https://images.unsplash.com/photo-1525450824786-227cbef70703?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "https://m.media-amazon.com/images/I/71XqfkduK7L._AC_SX385_.jpg",
   },
   {
-    price: 200,
-    name: "Blusa Branca",
+    price: 250,
+    name: "Camisa Palmeiras 2019",
     id: "6228ff31b7e6cb904bbe0172",
     imageUrl:
-      "https://images.unsplash.com/photo-1624206112918-f140f087f9b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "https://static.allianzparqueshop.com.br/produtos/camisa-palmeiras-i-1920-sn-torcedor-puma-masculina/60/D14-6289-060/D14-6289-060_zoom1.jpg?ts=1599854635&ims=544x",
   },
   {
     price: 200,
     imageUrl:
-      "https://images.unsplash.com/photo-1582418702059-97ebafb35d09?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80",
+      "https://static.kappabrasil.com.br/produtos/camisa-vasco-20212022-preta-kappa-oficial-iii-sn/06/D24-3618-006/D24-3618-006_zoom1.jpg?ts=1623241352",
     id: "62290014b7e6cb904bbe017c",
-    name: "Calça Jeans Azul",
+    name: "Camisa Vasco III 2021",
   },
   {
     id: "6228ffa5b7e6cb904bbe017a",
-    name: "Vestido Branco",
+    name: "Camisa Real Madrid Treino",
     price: 250,
     imageUrl:
-      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
+      "https://cdn.awsli.com.br/600x1000/1890/1890260/produto/154291396/fbfd1afb78.jpg",
   },
 ];
 
